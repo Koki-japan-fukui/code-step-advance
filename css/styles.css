@@ -298,8 +298,7 @@ dd > textarea {
     width: 100%;
   }
   .button > input {
-    width: 10%;
+    width: 100%;
     padding: 20px;
-    width: 10px;
   }
 }
